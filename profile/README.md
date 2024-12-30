@@ -2,8 +2,8 @@
 
 - [Web](https://github.com/keiz-hq/public-web)
 - [Admin iOS App](https://github.com/keiz-hq/admin-ios)
-- [APIs](https://github.com/keiz-hq/apis)
-  - [Go](https://github.com/keiz-hq/apis-go)
-  - [Swift](https://github.com/keiz-hq/apis-swift)
+- [Admin Web](https://github.com/keiz-hq/admin-web)
+- [Web API](https://github.com/keiz-hq/web-api)
+- [Admin API](https://github.com/keiz-hq/admin-api)
 
 &copy; 2024 Keiz! Co., Ltd.
