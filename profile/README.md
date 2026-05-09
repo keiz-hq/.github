@@ -1,9 +1,11 @@
 # Keiz!
 
-- [Keiz! Web](https://github.com/keiz-hq/keiz-web)
-- [Keiz! Admin Web](https://github.com/keiz-hq/keiz-admin-web)
-- [Keiz! Admin iOS](https://github.com/keiz-hq/keiz-admin-ios)
-- [Keiz! Web API](https://github.com/keiz-hq/keiz-web-api)
-- [Keiz! Admin API](https://github.com/keiz-hq/keiz-admin-api)
+| Repository | Description |
+| --- | --- |
+| [web](https://github.com/keiz-hq/web) | Keiz! Web フロントエンド |
+| [admin-web](https://github.com/keiz-hq/admin-web) | Keiz! 管理画面 |
+| [admin-ios](https://github.com/keiz-hq/admin-ios) | Keiz! 管理モバイルアプリ (iOS) |
+| [server](https://github.com/keiz-hq/server) | Keiz! Server |
+| [infra](https://github.com/keiz-hq/infra) | Keiz! インフラ |
 
 &copy; 2026 Keiz! Co., Ltd.
