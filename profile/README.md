@@ -7,5 +7,6 @@
 | [admin-ios](https://github.com/keiz-hq/admin-ios) | Keiz! 管理モバイルアプリ (iOS) |
 | [server](https://github.com/keiz-hq/server) | Keiz! Server |
 | [infra](https://github.com/keiz-hq/infra) | Keiz! インフラ |
+| [typespec](https://github.com/keiz-hq/typespec) | Keiz! 仕様 |
 
 &copy; 2026 Keiz! Co., Ltd.
