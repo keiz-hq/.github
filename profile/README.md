@@ -2,11 +2,8 @@
 
 | Repository | Description |
 | --- | --- |
-| [web](https://github.com/keiz-hq/web) | Keiz! Web フロントエンド |
-| [admin-web](https://github.com/keiz-hq/admin-web) | Keiz! 管理画面 |
-| [admin-ios](https://github.com/keiz-hq/admin-ios) | Keiz! 管理モバイルアプリ (iOS) |
-| [server](https://github.com/keiz-hq/server) | Keiz! Server |
+| [keiz](https://github.com/keiz-hq/keiz) | Keiz! モノレポ |
 | [infra](https://github.com/keiz-hq/infra) | Keiz! インフラ |
-| [typespec](https://github.com/keiz-hq/typespec) | Keiz! 仕様 |
+| [admin-ios](https://github.com/keiz-hq/admin-ios) | Keiz! 管理モバイルアプリ (iOS) |
 
 &copy; 2026 Keiz! Co., Ltd.
